@@ -1,0 +1,33 @@
+{
+    "name": "grunt-coffee-coverage",
+    "description": "JSCoverage-style instrumentation for CoffeeScript files.",
+    "keywords": ["gruntplugin", "coffee-coverage"],
+    "version": "0.1.0",
+    "homepage": "https://github.com/rithis/grunt-coffee-coverage",
+    "bugs": {
+        "url": "https://github.com/rithis/grunt-coffee-coverage/issues",
+        "email": "webmaster@rithis.com"
+    },
+    "author": {
+        "name": "Vyacheslav Slinko",
+        "email": "vyacheslav.slinko@gmail.com"
+    },
+    "main": "Gruntfile",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rithis/grunt-coffee-coverage.git"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "dependencies": {
+        "coffee-coverage": "git://github.com/vslinko/coffee-coverage.git#patch-1",
+        "grunt-coffeelint": "~0.0",
+        "grunt-simple-mocha": "~0.3",
+        "grunt-contrib-clean": "~0.4"
+    },
+    "engines": {
+        "node": "~0.8",
+        "npm": ">=1.1"
+    }
+}
