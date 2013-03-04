@@ -21,7 +21,7 @@
         "test": "grunt test"
     },
     "dependencies": {
-        "coffee-coverage": "git://github.com/vslinko/coffee-coverage.git#patch-1",
+        "coffee-coverage": "~0.1",
         "grunt-coffeelint": "~0.0",
         "grunt-simple-mocha": "~0.3",
         "grunt-contrib-clean": "~0.4"
