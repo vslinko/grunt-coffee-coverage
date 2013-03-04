@@ -2,7 +2,7 @@
     "name": "grunt-coffee-coverage",
     "description": "JSCoverage-style instrumentation for CoffeeScript files.",
     "keywords": ["gruntplugin", "coffee-coverage"],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/rithis/grunt-coffee-coverage",
     "bugs": {
         "url": "https://github.com/rithis/grunt-coffee-coverage/issues",
