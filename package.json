@@ -5,12 +5,8 @@
     "gruntplugin",
     "coffee-coverage"
   ],
-  "version": "0.1.1",
-  "homepage": "https://github.com/rithis/grunt-coffee-coverage",
-  "bugs": {
-    "url": "https://github.com/rithis/grunt-coffee-coverage/issues",
-    "email": "webmaster@rithis.com"
-  },
+  "version": "0.1.2",
+  "homepage": "https://github.com/FredrikAppelros/grunt-coffee-coverage.git",
   "author": {
     "name": "Vyacheslav Slinko",
     "email": "vyacheslav.slinko@gmail.com"
@@ -18,7 +14,7 @@
   "main": "Gruntfile",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rithis/grunt-coffee-coverage.git"
+    "url": "https://github.com/FredrikAppelros/grunt-coffee-coverage.git"
   },
   "scripts": {
     "test": "grunt test"
